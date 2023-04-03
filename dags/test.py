@@ -4,4 +4,4 @@ name = "Sorrapon"
 
 surname = 'Mongkonsook'
 
-age = 24
+university = 'Chula'
